@@ -13,4 +13,5 @@ public class Drużyny {
 private int druzyna_id;
 private String nazwaDruzyny;
 
+
 }
